@@ -120,7 +120,7 @@ int main(int argc, char* argv[])
 			break;
 		}
                 
-        fill(block_data.begin(), block_data.end(), 0);
+        	fill(block_data.begin(), block_data.end(), 0);
 
 	}
 
